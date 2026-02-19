@@ -51,7 +51,7 @@ Use at your own risk.
 ## Citation
 
 If you use ExFAB Arsenal designs in publications, please cite:  
-***ExFAB Arsenal. Open-source hardware toolkit for laboratory automation. GitHub repository. Available at:https://github.com/exfab/ExFAB-Arsenal Accessed: 2026-02-xx.***
+*ExFAB Arsenal. Open-source hardware toolkit for laboratory automation. GitHub repository. Available at:https://github.com/exfab/ExFAB-Arsenal Accessed: 2026-02-19.*
 
 
 ## License
