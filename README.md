@@ -29,10 +29,11 @@ We welcome improvements, additional platform support, and workflow-driven toolin
 Please include the following files within the appropriate folder:
 - STL files for all printable components
 - Source design files (Fusion, Blender etc.) whenever possible
-- Platform-specific labware files, if applicable (e.g., .json for Opentrons, .cai for Tecan), so parts can be used directly on supported systems.
+- Platform-specific labware files, if applicable (e.g., .json for Opentrons, .zeia for Tecan), so parts can be used directly on supported systems.
 - At least one preview image (render or photo of the printed part)
 - A README document (you may use the provided template), including:
   - Description
+  - Origin
   - Compatible platforms
   - Version
   - Print settings
@@ -48,10 +49,15 @@ Users are responsible for validating fit, mechanical stability, and deck offsets
 All parts should be thoroughly tested and verified prior to running automated workflows or experiments.
 Use at your own risk.
 
-## Citation
+## Attribution and Citation
 
-If you use ExFAB Arsenal designs in publications, please cite:  
-*ExFAB Arsenal. Open-source hardware toolkit for laboratory automation. GitHub repository. Available at:https://github.com/exfab/ExFAB-Arsenal Accessed: 2026-02-19.*
+This repository contains both **original designs developed by ExFAB** and **third-party designs** sourced from external repositories.
+
+Third-party models retain their original licenses and attribution requirements. Please refer to the README and license information within each model's folder for the original source and citation instructions.
+
+If you use **original designs developed by ExFAB** in publications, presentations, or other work, please cite:
+
+*ExFAB Arsenal. Open-source hardware toolkit for laboratory automation. GitHub repository. Available at: https://github.com/exfab/ExFAB-Arsenal. Accessed: 2026-02-19.*
 
 
 ## License
