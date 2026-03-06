@@ -1,5 +1,6 @@
 # 24-well tube block (SBS)
 <img src="24_wellblock.jpeg" style="display: block; margin-left: auto; margin-right: auto; height: 400px;" />
+
 ## Description
 
 SBS-format 24-well block able to hold 1.5 mL and 2 mL screw cap tubes on the liquid handlers.
