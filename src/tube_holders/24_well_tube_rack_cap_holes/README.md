@@ -24,11 +24,11 @@ Tested for compatibility with:
 - Tecan  
 - Opentrons  
 
-Labware definition files are provided in this directory for direct use with the adapter:
+Labware definition files are provided in this directory for direct use with the rack:
 
 - **Opentrons:** `xxxx.json`  
 - **Tecan:** `xxxx.zeia`
 
-These files allow the adapter to be used directly on the respective platforms without additional labware configuration.  
+These files allow the rack to be used directly on the respective platforms without additional labware configuration.  
 
 No modifications have been made to the original design.
