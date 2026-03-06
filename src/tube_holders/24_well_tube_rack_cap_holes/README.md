@@ -1,4 +1,4 @@
-# 24-Well Screw-Cap Tube Rack (with cap holes) Adapter (Third-Party Design)
+# 24-Well Tube Rack (with cap holes) Adapter (Third-Party Design)
 
 <img src="img_24_well_tube_rack_cap_holes.jpeg" style="display:block; margin-left:auto; margin-right:auto; height:400px;" />
 
