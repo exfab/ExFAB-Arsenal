@@ -4,13 +4,13 @@
 
 ## Description
 
-A 24-well tube rack adapter designed to hold **1.5 mL and 2 mL microcentrifuge tubes** on a liquid handler deck.  
+A 24-well tube rack to hold **1.5 mL and 2 mL microcentrifuge tubes** on a liquid handler deck.  
 
 The design includes **cap holes that help stabilize tube caps**, making the rack compatible with both **screw-cap and snap-cap tubes** during automated workflows.
 
 ## Origin
 
-Original design by **thehair**  
+Original design by **thehair**.  
 Source: https://www.thingiverse.com/thing:3405002  
 License: Creative Commons Attribution-ShareAlike (CC BY-SA)
 
