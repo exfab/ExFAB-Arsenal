@@ -26,7 +26,7 @@ Tested for compatibility with:
 
 Labware definition files are provided in this directory for direct use with the rack:
 
-- **Opentrons:** `xxxx.json`  
+- **Opentrons:** `opentrons_24_tuberack_shortbase_snapcap.json`  
 - **Tecan:** `xxxx.zeia`
 
 These files allow the rack to be used directly on the respective platforms without additional labware configuration.  
