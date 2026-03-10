@@ -3,12 +3,23 @@
 
 ## Description
 
-Adapter for securing standard SBS-format 96-well non-skirted PCR plates onto the liquid handlers deck.
+Adapter for securing standard SBS-format 96-well non-skirted PCR plates onto the liquid handlers deck.  
+
+## Origin
+
+Designed and developed by **ExFAB Biofoundry**.  
 
 ## Compatible Platforms
 
-- Opentrons
-- Tecan
+- Opentrons  
+- Tecan  
+
+Labware definition files are provided in this directory for direct use with the adapter:
+
+- **Opentrons:** `thermoscientificnonskirted_96_wellplate_300ul.json`  
+- **Tecan:** `96 Well nonskirt adapter LnZ 3.2.zeia`
+
+These files allow the adapter to be used directly on the respective platforms without additional labware configuration.  
 
 ## Compatible Labware
 
