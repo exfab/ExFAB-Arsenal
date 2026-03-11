@@ -14,6 +14,15 @@ Designed by Christian Ona and developed by Leonardo Sanchez @ **ExFAB Biofoundry
 - Opentrons
 - Tecan
 
+Labware definition files are provided in this directory for direct use with the rack:
+
+- **Opentrons:** `opentrons_24_tubeblock_screwcap.json`  
+- **Tecan:** `24_well_tuberack.zeia`
+
+These files allow the rack to be used directly on the respective platforms without additional labware configuration.  
+
+No modifications have been made to the original design.
+
 ## Compatible Labware
 
 - Nalgene™ General Long-Term Storage Cryogenic Tubes 1.5 mL (cat no.5000-1020)
