@@ -5,6 +5,10 @@
 
 SBS-format 24-well block able to hold 1.5 mL and 2 mL screw cap tubes on the liquid handlers.
 
+## Origin
+
+Designed by Christian Ona and developed by Leonardo Sanchez @ **ExFAB Biofoundry**.
+
 ## Compatible Platforms
 
 - Opentrons
