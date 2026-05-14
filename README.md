@@ -1,4 +1,4 @@
-# ExFAB Arsenal
+# ExFAB Arsenal  <img src="www/icon_from_thenounproject.png" align="right" style="float:right; height:220px; margin: 10px;"/>
 
 To support accessible and reproducible lab automation, this repository contains all 3D‑printable tools designed at the ExFAB Biofoundry, compatible with multiple automation platforms.
 
