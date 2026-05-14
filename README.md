@@ -1,8 +1,8 @@
-# ExFAB Arsenal  <img src="www/icon_from_thenounproject.png" align="right" style="float:right; height:220px; margin: 10px;"/>
+# ExFAB Arsenal
 
 To support accessible and reproducible lab automation, this repository contains all 3D‑printable tools designed at the ExFAB Biofoundry, compatible with multiple automation platforms.
 
-## Supported Platforms
+## Supported Platforms  <img src="www/icon_from_thenounproject.png" align="right" style="float:right; height:220px; margin: 10px;"/>
 
 - Opentrons
 - Tecan
